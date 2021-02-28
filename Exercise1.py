@@ -1,0 +1,7 @@
+print("Hello world!")
+print("Hello again!")
+print("I like to print this")
+print("Hooray! I print")
+print("It's funny")
+print("This exercise like a 'Magic'.")
+print('I say, that is good')

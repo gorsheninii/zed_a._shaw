@@ -1,4 +1,4 @@
-#start python with this parametres: c:\Python39>python c:\Python\Zed_A._Shaw\
+#start python with this parametres: c:\Python39\python c:\Python\Zed_A._Shaw\
 #exercise13.py first 2nd 3rd
 from sys import argv
 
